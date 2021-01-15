@@ -1,0 +1,19 @@
+Welcome!
+
+Here I provide Python scripts to calculate the grain collisional velocities in
+different turbulence models, based on the paper Gong et al. (2021).
+
+%TODO: paper ref.
+
+In "grain_collision_gong2021.py", I provide the classes and functions for
+setting up turbulence models and calculating grain collisional velocities based
+on numerical integration or analytic approximation. The analytic approximation
+is simple, fast, and accurate, and can be easily implemented in other codes for
+calculating grain size evolution.
+
+In "vcoll.ipynb", I provide examples for using the classes and functions in
+"grain_collision_gong2021.py", by reproducing Figure 2 in Gong et al. (2021).
+
+Enjoy! Please feel free to contact me if you have any questions.
+
+-- Munan Gong
