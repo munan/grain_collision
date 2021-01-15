@@ -11,8 +11,10 @@ on numerical integration or analytic approximation. The analytic approximation
 is simple, fast, and accurate, and can be easily implemented in other codes for
 calculating grain size evolution.
 
-In "vcoll.ipynb", I provide examples for using the classes and functions in
+In the "vcoll.ipynb" Ipython Notebook, I provide examples for using the classes and functions in
 "grain_collision_gong2021.py", by reproducing Figure 2 in Gong et al. (2021).
+I also saved this Ipython Notebook to the html format as "vcoll.html", so you
+can view the content even if you do not use Ipython.
 
 Enjoy! Please feel free to contact me if you have any questions.
 
