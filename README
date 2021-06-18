@@ -1,9 +1,7 @@
 Welcome!
 
 Here I provide Python scripts to calculate the grain collisional velocities in
-different turbulence models, based on the paper Gong et al. (2021).
-
-%TODO: paper ref.
+different turbulence models, based on the paper Gong et al. (2021), https://arxiv.org/abs/2106.09525
 
 In "grain_collision_gong2021.py", I provide the classes and functions for
 setting up turbulence models and calculating grain collisional velocities based
